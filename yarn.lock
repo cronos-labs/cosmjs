@@ -3171,7 +3171,6 @@ __metadata:
     node-gyp: ^11.2.0
     prettier: ^2.8.8
     typescript: ~4.9
-    usb: 1.9.2
   languageName: unknown
   linkType: soft
 
@@ -8104,7 +8103,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"usb@npm:1.9.2, usb@npm:^1.7.0":
+"usb@npm:^1.7.0":
   version: 1.9.2
   resolution: "usb@npm:1.9.2"
   dependencies:
